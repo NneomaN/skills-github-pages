@@ -1,4 +1,4 @@
-#edit index.md page
+edit index.md page
 ---
 title: Welcome to my blog
 ---
